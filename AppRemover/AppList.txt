@@ -1,0 +1,12 @@
+3dbuilder
+windowsalarms
+windowscommunicationsapps
+windowscamera
+zunemusic
+windowsmaps
+zunevideo
+onenote
+people
+windowsstore
+soundrecorder
+xboxapp
